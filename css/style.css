@@ -1,0 +1,184 @@
+#topHeader
+{
+  background-color: ghostwhite;
+  border-bottom: 1px solid #ebebeb;
+}
+
+#topHeader a
+{
+  color: #2c3e50;
+  font-weight: 600;
+  font-size: 0.89rem;
+}
+
+.container-fluid
+{
+  padding-left: 0;
+  padding-right: 0;
+}
+
+nav ul li a
+{
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+.content-right{
+    background-color: blue;
+}
+
+/* START : FOOTER */
+.full-footer
+{
+  background-color: #243c4f;
+  
+}
+
+.top-footer p
+{
+  color: white;
+}
+
+.top-footer a
+{
+  color: white;
+  font-weight: 600;
+}
+
+.top-footer h3
+{
+  color: white;
+}
+
+.bottom-footer
+{
+  background-color: #031b2e;
+}
+
+.bottom-footer p
+{
+  color: white;
+}
+/* END : FOOTER */
+
+/* START : HOMEPAGE-HERO SECTION 1 */
+.top-hero-section
+{
+  background-color: #3498db;
+  color: white;
+}
+
+.top-hero-section a
+{
+  color: white;
+  font-weight: 600;
+  padding-left: 2%;
+}
+
+.qualities-img
+{
+  width: 200px;
+}
+/* END : HOMEPAGE-HERO SECTION 1 */
+
+/* START : HOMEPAGE-REQUIREMENTS SECTION 3 */
+.requirements-section
+{
+  background-color: #004d80;
+  color: white;
+}
+
+/* END : HOMEPAGE-REQUIREMENTS SECTION 3 */
+
+/* START : HOMEPAGE-NEWSLETTER SECTION 5 */
+.home-newsletter
+{
+  background-color: #004d80;
+  color: white;
+}
+
+.home-newsletter .form-control
+{
+  height: 50px;
+  border-color: transparent;
+  border-radius: 20px 0 0 20px;
+}
+
+.home-newsletter .btn
+{
+  min-height: 50px;
+  border-radius: 0 20px 20px 0;
+  background: #243c4f;
+  color: white;
+}
+/* END : HOMEPAGE-NEWSLETTER SECTION 5 */
+
+.clients-section
+{
+  background-color: #f0f0f0;
+}
+/* END : HOMEPAGE */
+
+/* START: ABOUT US PAGE*/
+.breadcrumbs-section
+{
+  background-color: #e9ecef;
+}
+
+.team-img
+{
+  width: 200px;
+}
+/* END: ABOUT US PAGE*/
+
+/* START: CONTACT US PAGE*/
+.address p
+{
+  font-weight: 600;
+}
+
+.bar 
+{
+  color: white;
+  font-weight: 600;
+  font-size: 1.1rem;
+  border-radius: 17px;
+  border: 1px solid slategray;
+}
+
+/* News Portal Style */
+.news-portal{
+  display: inline-block;
+  width: 100%;
+  float: left;
+  margin-top: 35px;
+}
+.news-portal a{
+  text-decoration: none;
+}
+.news-portal a:hover{
+  text-decoration: underline;
+}
+.news-portal h3{
+  display: inline-block;
+  background-color: #1111e1;
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: 700;
+  padding: 10px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+.news-portal figure{
+  width: 48%;
+  float: left;
+  background-color: #ffffff;
+  padding: 5px;
+  margin-bottom: 25px;
+  box-shadow: 0 1px 1px gray;
+}
+.news-portal figcaption{
+  font-size: 16px;
+  color: #333333;
+  padding: 3px;
+  line-height: 20px;
+}
