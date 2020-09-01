@@ -16,6 +16,10 @@
   padding-left: 0;
   padding-right: 0;
 }
+.gongImg{
+  width: 30%;
+  height: 40%;
+}
 
 nav ul li a
 {
